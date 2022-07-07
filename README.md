@@ -1,8 +1,7 @@
-# Postick
+# ![image](https://user-images.githubusercontent.com/90931685/177765477-1fb922bc-d011-46e2-8801-c10b52d8aa65.png)
 
 кто то здесь есть ?
 
-![image](https://user-images.githubusercontent.com/90931685/177765261-581116d1-a7f8-4df7-84dd-2c40ee6b79db.png)
 
 
 
